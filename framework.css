@@ -1,0 +1,59 @@
+.d-flex {
+  display: flex;
+}
+
+.d-flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.p-10 {
+  padding: 10px;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+.m-10-auto {
+  margin: 10px auto;
+}
+
+.m-20-auto {
+  margin: 20px auto;
+}
+
+.p-relative {
+  position: relative;
+}
+
+.p-absolute {
+  position: absolute;
+}
+
+.b-rad-6 {
+  border-radius: 6px;
+}
+
+.b-rad-8 {
+  border-radius: 8px;
+}
+
+.b-rad-t {
+  border-radius: 100px;
+}
+
+.b-rad-circle {
+  border-radius: 50%;
+}
+
+.blue-button {
+  padding: 5px 10px;
+  background-color: var(--id-blue-dark);
+  color: white;
+  text-transform: capitalize;
+  font-size: 0.7rem;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 0.8px;
+}
