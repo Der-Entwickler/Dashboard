@@ -1,0 +1,11 @@
+{
+  "name": "dashboard-template4",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.html, *.css, *.js\""
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.11"
+  }
+}
